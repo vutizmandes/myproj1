@@ -1,0 +1,23 @@
+label {
+	display: block;
+	margin: 5px 0;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+td,
+th {
+	padding: 5px;
+	border-bottom: 1px solid #aaa;
+}
+
+#btn {  background-color: #A9BCF5; font-size: 16px; border:2px solid #243B0B; width:200px;  height: 30px; margin-top:10px;}
+
+#Name { width:200px;  height: 30px; border:3px solid green; background-color: #ccFA58; font-family: Verdana; font-size: 18px;  margin-top:10px;
+    text-align: center; }
+
+#SelectedTest { width:200px;  height: 30px; border:3px solid green; background-color: #58FA58; font-family: Verdana; font-size: 18px;  margin-top:10px; margin-top:10px;
+    text-align: center; padding-left: 10px;   }
